@@ -18,3 +18,6 @@ Speed: IAS (km/h)
 Just put everything in the SimFeedback folder and it should pop up by itself.
 Download:
 https://github.com/WidosFTW/falcon-bms-simfeedback/releases
+
+
+If you want to build it yourself, just open the .csproj inside of the Falcon folder. 
