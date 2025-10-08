@@ -20,4 +20,4 @@ Download:
 https://github.com/WidosFTW/falcon-bms-simfeedback/releases
 
 
-If you want to build it yourself, just open the .csproj inside of the Falcon folder. 
+If you want to build it yourself, just open the .csproj inside of the Falcon folder with Visual Studio.

@@ -157,7 +157,7 @@ namespace SimFeedback.telemetry.falcon
         public FalconTelemetryProvider() : base()
         {
             Author = "WidosFTW";
-            Version = "v0.1.0";
+            Version = "v1.0.0";
             BannerImage = @"img\banner_falcon.png"; // Image shown on top of the profiles tab
             IconImage = @"img\falcon.png";          // Icon used in the tree view for the profile
             TelemetryUpdateFrequency = 100;     // the update frequency in samples per second
